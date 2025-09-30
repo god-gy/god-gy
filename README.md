@@ -33,16 +33,14 @@
 
   
   ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
   <br/>
   
   ## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=god-gy)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=god-gy&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=god-gy)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
