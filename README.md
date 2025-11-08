@@ -11,6 +11,9 @@
   #### :raising_hand: I'm a Backend developer 👨‍💻<br/>
   #### :fire: I'm gonna get independently wealthy and just chill with no job!<br/>
   <br/>
+  ### ✍️ Latest from [Velog](https://velog.io/@god_gy0321)
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
   <br/>
   
   ## 🧱 Tech Stack
