@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://v2.velog.io/rss/@god_gy0321"
-          max_post_count: 3
+          max_post_count: 5
           commit_message: "Update Velog posts"
