@@ -1,7 +1,7 @@
 name: Update Velog Posts
 on:
   schedule:
-    - cron: '0 0 * * *'  # 6시간마다 갱신
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
