@@ -14,7 +14,7 @@
   ---
   ### ✍️ Latest from [Velog](https://velog.io/@god_gy0321)
   <!-- BLOG-POST-LIST:START -->
-- [DBMS - 2. CRUD](https://velog.io/@god_gy0321/DBMS-2.-CRUD)
+- [DBMS - 2. CRUD &lpar;RDBMS&rpar;](https://velog.io/@god_gy0321/DBMS-2.-CRUD)
 - [DBMS - 1.  DBMS](https://velog.io/@god_gy0321/DBMS-1.-DBMS)
 - [백엔트 프레임워크와 선택방법](https://velog.io/@god_gy0321/%EB%B0%B1%EC%97%94%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
 - [프로그램 패러다임](https://velog.io/@god_gy0321/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B8%EC%96%B4-1.-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
