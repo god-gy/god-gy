@@ -14,11 +14,11 @@
   ---
   ### ✍️ Latest from [Velog](https://velog.io/@god_gy0321)
   <!-- BLOG-POST-LIST:START -->
+- [기술면접 준비 &lpar;2&rpar; - Computer Science &lpar;4&rpar;](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-2-Computer-Science-4)
 - [기술면접 준비 &lpar;2&rpar; - Computer Science &lpar;3&rpar;](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-2-Computer-Science-3)
 - [기술면접 준비 &lpar;2&rpar; - Computer Science &lpar;2&rpar;](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-2-Computer-Science-2)
 - [기술면접 준비 &lpar;2&rpar; - Computer Science &lpar;1&rpar;](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-2-Computer-Science-1)
 - [기술면접 준비 &lpar;1&rpar;](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-1)
-- [Django Field들과 DB설계 잘하는 방법](https://velog.io/@god_gy0321/Django-Field%EB%93%A4%EA%B3%BC-DB%EC%84%A4%EA%B3%84-%EC%9E%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
