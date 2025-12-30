@@ -14,11 +14,11 @@
   ---
   ### ✍️ Latest from [Velog](https://velog.io/@god_gy0321)
   <!-- BLOG-POST-LIST:START -->
+- [기술면접 준비 &lpar;2&rpar; - Computer Science &lpar;5&rpar;](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-2-Computer-Science-5)
 - [HappyNewYear Project &lpar;2&rpar;](https://velog.io/@god_gy0321/HappyNewYear-Project-2)
 - [HappyNewYear Project &lpar;1&rpar;](https://velog.io/@god_gy0321/HappyNewYear-Project-1)
 - [기술면접 준비 &lpar;2&rpar; - Computer Science &lpar;4&rpar;](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-2-Computer-Science-4)
 - [기술면접 준비 &lpar;2&rpar; - Computer Science &lpar;3&rpar;](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-2-Computer-Science-3)
-- [기술면접 준비 &lpar;2&rpar; - Computer Science &lpar;2&rpar;](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-2-Computer-Science-2)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
