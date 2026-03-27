@@ -14,11 +14,11 @@
   ---
   ### ✍️ Latest from [Velog](https://velog.io/@god_gy0321)
   <!-- BLOG-POST-LIST:START -->
+- [국비지원 회고록](https://velog.io/@god_gy0321/%EA%B5%AD%EB%B9%84%EC%A7%80%EC%9B%90-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 - [Django 만세력 프로젝트 기록](https://velog.io/@god_gy0321/Django-%EB%A7%8C%EC%84%B8%EB%A0%A5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EB%A1%9D)
 - [기술면접 준비 &lpar;5&rpar; - Linux](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-5-Linux)
 - [기술면접 준비 &lpar;5&rpar; - Web](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-5-Web)
 - [기술면접 준비 &lpar;4&rpar; - Design Pattern](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-4-Design-Pattern)
-- [기술면접 준비 &lpar;2~3&rpar; - CS 기술면접 압축](https://velog.io/@god_gy0321/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-23-CS-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%95%95%EC%B6%95)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
